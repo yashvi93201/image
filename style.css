@@ -1,1 +1,34 @@
-body { color: white; background: pink; } .heading { width: 80%; font-size: 22px; } #camera { border: 2px dashed black; width: 350px; height: 300px; } .name_of_objects, #result_object_name , #result_object_accuracy { color: yellow; }
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size:18px;
+   border-radius:10px;
+   letter-spacing:  20px;
+
+}
